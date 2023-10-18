@@ -85,4 +85,6 @@ body{
     background: transparent;
     color: black;
     font-weight: 500;
+    border: 1px solid black;
+
 }
